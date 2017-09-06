@@ -39,6 +39,11 @@ void Game::Go()
 
 void Game::UpdateModel()
 {
+	if (true)
+
+	{
+
+	}
 }
 
 void Game::ComposeFrame()
